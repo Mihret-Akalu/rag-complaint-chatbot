@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/raw/
+data/processed/
+vector_store/
+.cache/
+huggingface/
+.ipynb_checkpoints/
