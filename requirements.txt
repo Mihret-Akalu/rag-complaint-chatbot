@@ -1,0 +1,23 @@
+# Core retrieval & LLM libraries
+langchain-community>=0.0.10
+ollama>=0.1.0
+
+# Vector databases and similarity search
+chromadb>=0.3.22
+faiss-cpu>=1.7.6
+
+# Embeddings
+sentence-transformers>=2.2.2
+
+# UI for chatbot
+gradio>=3.50.0
+
+# Data and utility
+pandas>=1.5.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# (Optional but common)
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
